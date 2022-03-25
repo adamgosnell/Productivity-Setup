@@ -3,6 +3,9 @@ AutoHotkey
 
 Requirements:
   - Program: Autohotkey (https://www.autohotkey.com/)
+    Used to run the script
+  - Program: Sublime Text (https://www.sublimetext.com/)
+    Used to edit the script and referenced in some routines
 
 Keyboard_Shortcuts.ahk is a script I run full-time on my machine. It runs on startup and lists all the hot-strings and hot-keys I use. I've redacted it (prefix r-) for public consumption, but I've notated it thoroughly. This is the bread-and-butter of the operation.
 
