@@ -6,7 +6,6 @@ Requirements:
 
 Keyboard_Shortcuts.ahk is a script I run full-time on my machine. It runs on startup and lists all the hot-strings and hot-keys I use. I've redacted it (prefix r-) for public consumption, but I've notated it thoroughly. This is the bread-and-butter of the operation.
 
-I've also included a few other files:
   - AutoHotkeyLogoSplash.jpg is the startup/reload visual, the script calls for it
   
   I mention in the notations that I also use an MMO mouse (Logitech G600), so I've included screenshots of how I map the buttons and a script that I use to splash the map on-screen.
