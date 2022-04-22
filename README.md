@@ -1,5 +1,5 @@
-# AHK
-AutoHotkey
+# Productivity-Setup
+Using AutoHotkey and Logitech G600
 
 Requirements:
   - Program: Autohotkey (https://www.autohotkey.com/)
